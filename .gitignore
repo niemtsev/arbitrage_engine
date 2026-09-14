@@ -222,3 +222,6 @@ venv/
 
 *.docx
 ~$*
+venv/
+.env
+__pycache__/
